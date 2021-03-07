@@ -1,3 +1,3 @@
 # citySahre
-carpooling app
+cityShare
 it's an android carpooling app
